@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="36" viewBox="0 0 150 36" role="img" aria-label="@PulseMedAI">
+  <title>@PulseMedAI</title>
+  <rect x=".5" y=".5" width="149" height="35" rx="6" fill="#161b22" stroke="#30363d"/>
+  <g transform="translate(12 8)"><path transform="scale(.833333)" d="M18.901 1.153h3.68l-8.04 9.19L24 22.846h-7.406l-5.8-7.584-6.64 7.584H.47l8.6-9.835L0 1.154h7.594l5.243 6.932 6.064-6.933zm-1.29 19.495h2.039L6.487 3.24H4.3l13.311 17.408z" fill="#f0f6fc"/></g>
+  <text x="41" y="18.5" fill="#e6edf3" font-family="Arial, Helvetica, sans-serif" font-size="12.5" font-weight="600" dominant-baseline="middle">@PulseMedAI</text>
+</svg>
