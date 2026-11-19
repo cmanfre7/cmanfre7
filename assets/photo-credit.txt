@@ -1,0 +1,6 @@
+Chicago skyline photograph
+Photographer: Raf Winterpacht
+Source: https://unsplash.com/photos/a-view-of-a-city-from-across-the-water-EavRYLOvj8U
+License: https://unsplash.com/license
+The source photograph is free to use under the Unsplash License.
+This file uses a 2400 x 800 banner crop provided by the Unsplash image CDN.
